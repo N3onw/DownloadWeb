@@ -1,5 +1,8 @@
+*{
+  font-family: Arial;
+}
 body{
-  background-color: #87CEFA;
+  background-color: #D8BFD8;
 }
 img{
   width: 800px;
@@ -9,4 +12,8 @@ img{
 #download{
   width: 400px;
   height: 100px;
+}
+.sujestao{
+  width: 400px;
+  height: 225px;
 }
